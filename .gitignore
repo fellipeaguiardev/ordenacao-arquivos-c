@@ -1,0 +1,10 @@
+# Executaveis
+*.exe
+ordenacao
+
+# Arquivos gerados ao rodar o programa
+dados.txt
+ordenado.txt
+
+# Pacote de entrega
+*.zip
